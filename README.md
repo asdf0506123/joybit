@@ -1,3 +1,6 @@
+## JoyBit <img width="1915" height="1077" alt="image" src="https://github.com/user-attachments/assets/9e0f8dd8-173d-4bea-af81-0b9bc4ec219b" />
+
+
 ## Creacion de mando JoyBit
 **Requisitos:** Tutorial y materiales
 
