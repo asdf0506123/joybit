@@ -39,7 +39,7 @@ export const GameSelection: React.FC<GameSelectionProps> = ({ onBack }) => {
         <div 
           id="card-game-1"
           className={`group relative aspect-square cursor-pointer transition-transform duration-300 ${focusedIndex === 1 ? 'scale-105 z-10' : 'hover:scale-105'}`}
-          onClick={() => alert("Iniciando Neon Pulse...")}
+          onClick={() => window.open('/joybit-adventure/index.html', '_blank')}
         >
           <div className={`absolute inset-0 bg-slate-900/80 backdrop-blur-sm border-4 rounded-3xl transition-all duration-300 
             ${focusedIndex === 1 ? 'border-joy-cyan shadow-[0_0_50px_rgba(34,211,238,0.5)]' : 'border-joy-cyan/30 group-hover:border-joy-cyan group-hover:shadow-[0_0_50px_rgba(34,211,238,0.3)]'}
@@ -52,10 +52,10 @@ export const GameSelection: React.FC<GameSelectionProps> = ({ onBack }) => {
               <Zap className="w-12 h-12 text-joy-cyan" />
             </div>
             <h3 className={`font-epic text-4xl font-bold mb-2 transition-colors ${focusedIndex === 1 ? 'text-joy-cyan' : 'text-white group-hover:text-joy-cyan'}`}>
-              Neon Pulse
+              Mario Bit
             </h3>
             <p className="font-pixel text-[10px] md:text-xs text-slate-400 leading-relaxed max-w-[80%]">
-              Carreras de alta velocidad en un mundo cibernético infinito.
+            Corre y salta a traves de un solo intento. ¡Mata a todos los enemigos y alcanza la meta!
             </p>
           </div>
           
