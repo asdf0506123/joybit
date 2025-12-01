@@ -6,6 +6,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
 
   return {
+    base: '/joybit-adventure/',
 
     server: {
       port: 3000,
