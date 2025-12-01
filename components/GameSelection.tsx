@@ -39,7 +39,7 @@ export const GameSelection: React.FC<GameSelectionProps> = ({ onBack }) => {
         <div 
           id="card-game-1"
           className={`group relative aspect-square cursor-pointer transition-transform duration-300 ${focusedIndex === 1 ? 'scale-105 z-10' : 'hover:scale-105'}`}
-          onClick={() => window.open('/joybit-adventure/dist/index.html', '_blank')}
+          onClick={() => window.open('youtube.com', '_blank')}
         >
           <div className={`absolute inset-0 bg-slate-900/80 backdrop-blur-sm border-4 rounded-3xl transition-all duration-300 
             ${focusedIndex === 1 ? 'border-joy-cyan shadow-[0_0_50px_rgba(34,211,238,0.5)]' : 'border-joy-cyan/30 group-hover:border-joy-cyan group-hover:shadow-[0_0_50px_rgba(34,211,238,0.3)]'}
