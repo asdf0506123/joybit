@@ -1,5 +1,5 @@
 import React, { useRef, useEffect, useState } from 'react';
-import { GameState, InputState, Platform, Particle, Entity, Enemy, Projectile, Item } from '../types';
+import { GameState, InputState, Platform, Particle, Entity, Enemy, Projectile, Item } from '../../../types';
 import { INITIAL_LEVEL, INITIAL_ENEMIES, INITIAL_ITEMS, COLORS, GRAVITY, FRICTION, ACCELERATION, JUMP_FORCE, MAX_SPEED, TERMINAL_VELOCITY, PROJECTILE_SPEED, TIME_LIMIT } from '../constants';
 
 const CANVAS_WIDTH = 800;
