@@ -1,20 +1,22 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/temp/1
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+## JoyBit <img width="1915" height="1077" alt="image" src="https://github.com/user-attachments/assets/9e0f8dd8-173d-4bea-af81-0b9bc4ec219b" />
 
 
-1. Install dependencies:
+## Creacion de mando JoyBit
+**Requisitos:** Tutorial y materiales
+
+1. Codigo para ESP32 y arduino creado por KARTIS:
+   `https://github.com/LegendofKARTIS/diy-joystick`
+2. Video tutorial
+   `https://www.youtube.com/watch?v=Fp8zheckTXw`
+
+## Correr localmente
+
+**Prerequisitos:**  Node.js
+
+
+1. Instala dependencias:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Corre la app:
    `npm run dev`
+
+## Creado totalmente con Gemini Studio AI
