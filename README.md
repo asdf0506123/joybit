@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" alt="JoyBit Application Interface" src="[https://github.com/user-attachments/assets/9e0f8dd8-173d-4bea-af81-0b9bc4ec219b](https://github.com/user-attachments/assets/9e0f8dd8-173d-4bea-af81-0b9bc4ec219b)" />
+  <img width="100%" alt="JoyBit Application Interface" src="https://github.com/user-attachments/assets/9e0f8dd8-173d-4bea-af81-0b9bc4ec219b" />
 </p>
 
 ---
