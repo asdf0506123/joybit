@@ -35,6 +35,14 @@ To successfully assemble and initialize the physical control interface compatibl
 2. **Schematic Implementation Guide:** Step-by-step physical pinout wiring, serial bridge communication setups, and component assembly instructions.  
    * Technical Reference Tutorial: [Video Assembly Demonstration](https://www.youtube.com/watch?v=Fp8zheckTXw)
 
+### Case
+
+For this one I made the case with Fusion360, it has a few issues with the design, but you can totally use and modify it! (the files are the ones with .stl termination at the repo)
+
+<p align="center">
+   <img width="40%" alt="JoyBit Case" src="joybit.jpeg" />
+</p>
+
 ## Local Development & Execution
 
 ### Prerequisites
